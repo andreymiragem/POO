@@ -1,0 +1,14 @@
+D:\POO\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.AssemblyInfoInputs.cache
+D:\POO\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.AssemblyInfo.cs
+D:\POO\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.csproj.CoreCompileInputs.cache
+D:\POO\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.exe
+D:\POO\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.deps.json
+D:\POO\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.runtimeconfig.json
+D:\POO\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.dll
+D:\POO\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.pdb
+D:\POO\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.dll
+D:\POO\04ExercicioIMC\obj\Debug\net8.0\refint\04ExercicioIMC.dll
+D:\POO\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.pdb
+D:\POO\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.genruntimeconfig.cache
+D:\POO\04ExercicioIMC\obj\Debug\net8.0\ref\04ExercicioIMC.dll

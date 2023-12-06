@@ -1,0 +1,14 @@
+D:\POO\02Métodos\bin\Debug\net8.0\02Métodos.exe
+D:\POO\02Métodos\bin\Debug\net8.0\02Métodos.deps.json
+D:\POO\02Métodos\bin\Debug\net8.0\02Métodos.runtimeconfig.json
+D:\POO\02Métodos\bin\Debug\net8.0\02Métodos.dll
+D:\POO\02Métodos\bin\Debug\net8.0\02Métodos.pdb
+D:\POO\02Métodos\obj\Debug\net8.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\02Métodos\obj\Debug\net8.0\02Métodos.AssemblyInfoInputs.cache
+D:\POO\02Métodos\obj\Debug\net8.0\02Métodos.AssemblyInfo.cs
+D:\POO\02Métodos\obj\Debug\net8.0\02Métodos.csproj.CoreCompileInputs.cache
+D:\POO\02Métodos\obj\Debug\net8.0\02Métodos.dll
+D:\POO\02Métodos\obj\Debug\net8.0\refint\02Métodos.dll
+D:\POO\02Métodos\obj\Debug\net8.0\02Métodos.pdb
+D:\POO\02Métodos\obj\Debug\net8.0\02Métodos.genruntimeconfig.cache
+D:\POO\02Métodos\obj\Debug\net8.0\ref\02Métodos.dll

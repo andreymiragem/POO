@@ -1,0 +1,14 @@
+D:\POO\05Acesso\obj\Debug\net8.0\05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\05Acesso\obj\Debug\net8.0\05Acesso.AssemblyInfoInputs.cache
+D:\POO\05Acesso\obj\Debug\net8.0\05Acesso.AssemblyInfo.cs
+D:\POO\05Acesso\obj\Debug\net8.0\05Acesso.csproj.CoreCompileInputs.cache
+D:\POO\05Acesso\bin\Debug\net8.0\05Acesso.exe
+D:\POO\05Acesso\bin\Debug\net8.0\05Acesso.deps.json
+D:\POO\05Acesso\bin\Debug\net8.0\05Acesso.runtimeconfig.json
+D:\POO\05Acesso\bin\Debug\net8.0\05Acesso.dll
+D:\POO\05Acesso\bin\Debug\net8.0\05Acesso.pdb
+D:\POO\05Acesso\obj\Debug\net8.0\05Acesso.dll
+D:\POO\05Acesso\obj\Debug\net8.0\refint\05Acesso.dll
+D:\POO\05Acesso\obj\Debug\net8.0\05Acesso.pdb
+D:\POO\05Acesso\obj\Debug\net8.0\05Acesso.genruntimeconfig.cache
+D:\POO\05Acesso\obj\Debug\net8.0\ref\05Acesso.dll

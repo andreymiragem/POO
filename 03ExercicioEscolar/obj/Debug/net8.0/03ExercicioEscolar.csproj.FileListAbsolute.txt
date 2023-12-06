@@ -1,0 +1,14 @@
+D:\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+D:\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.AssemblyInfo.cs
+D:\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+D:\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.exe
+D:\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.deps.json
+D:\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.runtimeconfig.json
+D:\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.dll
+D:\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.pdb
+D:\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.dll
+D:\POO\03ExercicioEscolar\obj\Debug\net8.0\refint\03ExercicioEscolar.dll
+D:\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.pdb
+D:\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.genruntimeconfig.cache
+D:\POO\03ExercicioEscolar\obj\Debug\net8.0\ref\03ExercicioEscolar.dll
