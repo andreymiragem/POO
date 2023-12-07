@@ -1,0 +1,15 @@
+D:\POO\07Construtor\bin\Debug\net8.0\07Construtor.exe
+D:\POO\07Construtor\bin\Debug\net8.0\07Construtor.deps.json
+D:\POO\07Construtor\bin\Debug\net8.0\07Construtor.runtimeconfig.json
+D:\POO\07Construtor\bin\Debug\net8.0\07Construtor.dll
+D:\POO\07Construtor\bin\Debug\net8.0\07Construtor.pdb
+D:\POO\07Construtor\obj\Debug\net8.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\07Construtor\obj\Debug\net8.0\07Construtor.AssemblyInfoInputs.cache
+D:\POO\07Construtor\obj\Debug\net8.0\07Construtor.AssemblyInfo.cs
+D:\POO\07Construtor\obj\Debug\net8.0\07Construtor.csproj.CoreCompileInputs.cache
+D:\POO\07Construtor\obj\Debug\net8.0\07Construtor.sourcelink.json
+D:\POO\07Construtor\obj\Debug\net8.0\07Construtor.dll
+D:\POO\07Construtor\obj\Debug\net8.0\refint\07Construtor.dll
+D:\POO\07Construtor\obj\Debug\net8.0\07Construtor.pdb
+D:\POO\07Construtor\obj\Debug\net8.0\07Construtor.genruntimeconfig.cache
+D:\POO\07Construtor\obj\Debug\net8.0\ref\07Construtor.dll
